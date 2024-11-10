@@ -8,7 +8,7 @@ spring:
     hibernate:
       ddl-auto: "update"
   datasource:
-    url: "jdbc:postgresql://localhost:5432/gfg_pay"
+    url: "jdbc:postgresql://localhost:5432/lk_pay"
     username: "lakshay"
     password: "Python043@"
     driver-class-name: "org.postgresql.Driver"

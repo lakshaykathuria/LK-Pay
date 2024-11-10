@@ -1,10 +1,10 @@
-package org.gfgpay.useraccounts.service;
+package org.lkpay.useraccounts.service;
 
 import lombok.extern.slf4j.Slf4j;
-import org.gfgpay.common.exceptions.NotFoundException;
-import org.gfgpay.useraccounts.model.Account;
-import org.gfgpay.useraccounts.model.User;
-import org.gfgpay.useraccounts.repository.AccountRepository;
+import org.lkpay.common.exceptions.NotFoundException;
+import org.lkpay.useraccounts.model.Account;
+import org.lkpay.useraccounts.model.User;
+import org.lkpay.useraccounts.repository.AccountRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

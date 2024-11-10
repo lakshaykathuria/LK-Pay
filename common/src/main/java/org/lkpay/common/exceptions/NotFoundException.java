@@ -1,4 +1,4 @@
-package org.gfgpay.common.exceptions;
+package org.lkpay.common.exceptions;
 
 
 public class NotFoundException extends RuntimeException{

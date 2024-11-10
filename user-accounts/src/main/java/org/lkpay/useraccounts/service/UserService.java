@@ -1,4 +1,4 @@
-package org.gfgpay.useraccounts.service;
+package org.lkpay.useraccounts.service;
 
 import org.springframework.stereotype.Service;
 

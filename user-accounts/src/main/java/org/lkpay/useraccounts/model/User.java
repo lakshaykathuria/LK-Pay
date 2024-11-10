@@ -1,4 +1,4 @@
-package org.gfgpay.useraccounts.model;
+package org.lkpay.useraccounts.model;
 
 import jakarta.persistence.*;
 import lombok.*;

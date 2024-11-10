@@ -1,4 +1,4 @@
-package org.gfgpay.useraccounts;
+package org.lkpay.useraccounts;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package org.gfgpay.useraccounts;
+package org.lkpay.useraccounts;
 
 public class Main {
     public static void main(String[] args) {

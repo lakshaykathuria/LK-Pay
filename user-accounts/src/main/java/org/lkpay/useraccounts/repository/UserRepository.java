@@ -1,6 +1,6 @@
-package org.gfgpay.useraccounts.repository;
+package org.lkpay.useraccounts.repository;
 
-import org.gfgpay.useraccounts.model.User;
+import org.lkpay.useraccounts.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
